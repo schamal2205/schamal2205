@@ -5,6 +5,9 @@
   - Traveling
 - I'm planning to learn 
    - Mobile App Development with .NET MAUI
+
+# Stackoverflow
+[![Bene Schmaler StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14918126)](https://stackoverflow.com/users/14918126/schamal)
 <!--
 - 🌱 I’m currently learning
   - 
